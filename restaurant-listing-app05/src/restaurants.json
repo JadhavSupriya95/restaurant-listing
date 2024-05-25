@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "supriya jadhav",
+      "address": "Nashik",
+      "pincode": "12345",
+      "mobileNumber": "1256214856",
+      "email": "supriya@example.com",
+      "website": "http://supriya1.com"
+    },
+    {
+      "id": 2,
+      "name": "sonal gawale",
+      "address": "pune",
+      "pincode": "67890",
+      "mobileNumber": "9876543210",
+      "email": "sonal@example.com",
+      "website": "http://sonal2.com"
+    },
+    {
+        "id": 3,
+        "name": "nilam patil",
+        "address": "dhule",
+        "pincode": "67890",
+        "mobileNumber": "9876543210",
+        "email": "nilam2@example.com",
+        "website": "http://nilam2.com"
+      }
+  ]
